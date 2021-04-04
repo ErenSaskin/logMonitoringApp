@@ -1,0 +1,12 @@
+click==7.1.2
+fastapi==0.63.0
+greenlet==1.0.0
+h11==0.12.0
+kafka-python==2.0.2
+nest-asyncio==1.5.1
+psycopg2-binary==2.8.6
+pydantic==1.8.1
+SQLAlchemy==1.4.3
+starlette==0.13.6
+typing-extensions==3.7.4.3
+uvicorn==0.13.4

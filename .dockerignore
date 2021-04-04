@@ -1,0 +1,6 @@
+.git
+.gitignore
+/src/__pycache__
+README.md
+Dockerfile
+dashboard.json
